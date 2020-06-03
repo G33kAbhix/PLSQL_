@@ -152,7 +152,7 @@ END;
 
 
 /** ---------------------------
-
+-- OUTPUT
 CREATE TABLE company (
   cmp_name VARCHAR2(50),
   city     varchar2(20),
